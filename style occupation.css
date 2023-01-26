@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+* a {
+    text-decoration: none;
+}
+
+* li {
+    list-style: none;
+}
+
+.menu {
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    margin:10px 5px 15px 20px ;
+    margin-top: 3%;
+    height: 15vh;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
